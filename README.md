@@ -18,7 +18,7 @@ The motion data can be visualised using Autodesk MotionBuilder. <a href="https:/
 <p ">Yijun Shen, Longzhi Yang, Edmond S. L. Ho and Hubert P. H. Shum, "<a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>," IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 8, pp. 115673-115684, IEEE, 2020.</p>
 
 <h2>Research Using This Dataset</h2>
-<p>The following is a list of research papers that use our dataset. If you also have used our dataset, please let us know and we will include your research here.</p>
+<p>The following is a list of research papers that use our dataset. If you also use our dataset, please let us know and we will include your research here.</p>
 <ul>
 <li>Qianhui Men, Hubert P. H. Shum, Edmond S. L. Ho and Howard Leung, "<a href="http://hubertshum.com/pbl_cag2021reactive.htm">GAN-based Reactive Motion Synthesis with Class-aware Discriminators for Human-human Interaction</a>," Computers and Graphics, Elsevier, 2021.</li>
 <ul>
