@@ -11,9 +11,11 @@ We present the InHAC datasets for human-human and human-object interaction, as d
 <li>InHAC-2PD: Two people daily movement interaction</li>
 </ul>
 
+<h1>Reference</h1>
 By using this dataset, you agreed to cite the following research publications in all your project documents/publications:
 Yijun Shen, Longzhi Yang, Edmond S. L. Ho and Hubert P. H. Shum, "<a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>," IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 8, pp. 115673-115684, IEEE, 2020.
 
+<h1>Research Using This Dataset</h1>
 The following is a list of other research papers that uses our dataset. If you use our dataset, please let us know and we will include your research here.
 <ul>
 <li>Qianhui Men, Hubert P. H. Shum, Edmond S. L. Ho and Howard Leung, "<a href="http://hubertshum.com/ppl_qianhuimen.htm">GAN-based Reactive Motion Synthesis with Class-aware Discriminators for Human-human Interaction</a>," Computers and Graphics, Elsevier, 2021.</li>
