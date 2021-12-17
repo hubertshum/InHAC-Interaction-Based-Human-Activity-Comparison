@@ -2,7 +2,7 @@
 
 ![teaser](https://user-images.githubusercontent.com/77708790/146571925-dc3b1e8c-d7dd-42e9-9103-1aa4e0bd5c5d.png)
 
-<p>We present the InHAC datasets for human-human and human-object interaction, as described in the paper <a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>. InHAC includes 5 datasets of different nature with over 450 skeletal motion data in BVH/TRC formats. They are:</p>
+<p>We present the InHAC datasets for human-human and human-object interaction, as described in the paper <a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>. InHAC includes 5 datasets of different nature with over 450 3D skeletal motion data in BVH/TRC formats. They are:</p>
 <ul>
   <li><b>InHAC-2C</b>: Character to character kick-boxing interaction</li>
 <li><b>InHAC-CRC</b>: Character to retargeted (i.e. adjusted size) character kick-boxing interaction</li>
