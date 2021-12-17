@@ -12,8 +12,8 @@ We present the InHAC datasets for human-human and human-object interaction, as d
 </ul>
 
 <h1>Reference</h1>
-By using this dataset, you agreed to cite the following research publications in all your project documents/publications:
-<p style="margin-left:24px">Yijun Shen, Longzhi Yang, Edmond S. L. Ho and Hubert P. H. Shum, "<a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>," IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 8, pp. 115673-115684, IEEE, 2020.</p>
+By using this dataset, you agreed to cite the following research publications in all your project documents/publications:<br>
+<p ">Yijun Shen, Longzhi Yang, Edmond S. L. Ho and Hubert P. H. Shum, "<a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>," IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 8, pp. 115673-115684, IEEE, 2020.</p>
 
 <h1>Research Using This Dataset</h1>
 The following is a list of other research papers that uses our dataset. If you use our dataset, please let us know and we will include your research here.
