@@ -4,11 +4,11 @@
 
 <p>We present the InHAC datasets for human-human and human-object interaction, as described in the paper <a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>. InHAC includes 5 datasets of different nature with over 450 skeletal motion data in BVH/TRC formats. They are:</p>
 <ul>
-  <li>InHAC-2C: Character to character kick-boxing interaction</li>
-<li>InHAC-CRC: Character to retargeted (i.e. adjusted size) character kick-boxing interaction</li>
-<li>InHAC-HOI: Human to object interaction</li>
-<li>InHAC-2PB: Two people boxing interaction</li>
-<li>InHAC-2PD: Two people daily movement interaction</li>
+  <li>**InHAC-2C**: Character to character kick-boxing interaction</li>
+<li>**InHAC-CRC**: Character to retargeted (i.e. adjusted size) character kick-boxing interaction</li>
+<li>**InHAC-HOI**: Human to object interaction</li>
+<li>**InHAC-2PB**: Two people boxing interaction</li>
+<li>**InHAC-2PD**: Two people daily movement interaction</li>
 </ul>
 
 The motion data can be visualised using Autodesk MotionBuilder. <a href="https://www.youtube.com/playlist?list=PLtv0q3KQ5a9rKTl3v4qwmTY2VaXemwPu8">YouTube tutorials</a> are available.
