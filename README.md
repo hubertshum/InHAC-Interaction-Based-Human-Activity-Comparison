@@ -1,4 +1,4 @@
-# InHAC: Interaction-based Human Activity Comparison
+# InHAC: The Interaction-based Human Activity Comparison Dataset
 
 ![teaser](https://user-images.githubusercontent.com/77708790/146571925-dc3b1e8c-d7dd-42e9-9103-1aa4e0bd5c5d.png)
 
