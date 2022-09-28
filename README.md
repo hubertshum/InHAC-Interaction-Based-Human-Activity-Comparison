@@ -20,6 +20,6 @@ The motion data can be visualised using Autodesk MotionBuilder. <a href="https:/
 <h2>Research Using This Dataset</h2>
 <p>The following is a list of research papers that use our dataset. If you also use our dataset, please let us know and we will include your research here.</p>
 <ul>
-<li>Qianhui Men, Hubert P. H. Shum, Edmond S. L. Ho and Howard Leung, "<a href="http://hubertshum.com/pbl_cag2021reactive.htm">GAN-based Reactive Motion Synthesis with Class-aware Discriminators for Human-human Interaction</a>," Computers and Graphics, Elsevier, 2021.</li>
 <li>Aman Goel, Qianhui Men and Edmond S. L. Ho, "<a href="https://diglib.eg.org/handle/10.1111/cgf14647">Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding</a>," Computer Graphics Forum, 2022.</li>
+<li>Qianhui Men, Hubert P. H. Shum, Edmond S. L. Ho and Howard Leung, "<a href="http://hubertshum.com/pbl_cag2021reactive.htm">GAN-based Reactive Motion Synthesis with Class-aware Discriminators for Human-human Interaction</a>," Computers and Graphics, Elsevier, 2021.</li>
 <ul>
