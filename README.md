@@ -17,9 +17,26 @@ The motion data can be visualised using Autodesk MotionBuilder. <a href="https:/
 <p>By using this dataset, you agree to cite the following research publication in all related project documents/publications:</p>
 <p ">Yijun Shen, Longzhi Yang, Edmond S. L. Ho and Hubert P. H. Shum, "<a href="http://hubertshum.com/pbl_tvcg2020interaction.htm">Interaction-based Human Activity Comparison</a>," IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 8, pp. 115673-115684, IEEE, 2020.</p>
 
+```
+@article{shen20interaction,
+ author={Shen, Yijun and Yang, Longzhi and Ho, Edmond S. L. and Shum, Hubert P. H.},
+ journal={IEEE Transactions on Visualization and Computer Graphics},
+ title={Interaction-Based Human Activity Comparison},
+ year={2020},
+ volume={26},
+ number={8},
+ pages={115673--115684},
+ numpages={14},
+ doi={10.1109/TVCG.2019.2893247},
+ publisher={IEEE},
+}
+```
+
+<!---
 <h2>Research Using This Dataset</h2>
 <p>The following is a list of research papers that use our dataset. If you also use our dataset, please let us know and we will include your research here.</p>
 <ul>
 <li>Aman Goel, Qianhui Men and Edmond S. L. Ho, "<a href="https://diglib.eg.org/handle/10.1111/cgf14647">Interaction Mix and Match: Synthesizing Close Interaction using Conditional Hierarchical GAN with Multi-Hot Class Embedding</a>," Computer Graphics Forum, 2022.</li>
 <li>Qianhui Men, Hubert P. H. Shum, Edmond S. L. Ho and Howard Leung, "<a href="http://hubertshum.com/pbl_cag2021reactive.htm">GAN-based Reactive Motion Synthesis with Class-aware Discriminators for Human-human Interaction</a>," Computers and Graphics, Elsevier, 2021.</li>
 <ul>
+-->
